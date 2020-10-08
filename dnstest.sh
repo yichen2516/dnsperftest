@@ -31,8 +31,6 @@ PROVIDERS="
 218.30.118.6#DNSPi电信2
 123.125.81.6#DNSPi联通1
 140.207.198.6#DNSPi联通2
-199.91.73.222#V2EX1
-178.79.131.110#V2EX2
 "
 
 # Domains to test. Duplicated domains are ok

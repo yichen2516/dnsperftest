@@ -20,10 +20,23 @@ PROVIDERS="
 176.103.130.132#adguard 
 156.154.70.3#neustar 
 8.26.56.26#comodo
+223.5.5.5#ali
+114.114.114.114#114
+180.76.76.76#baidu
+101.226.4.6#360电信
+123.128.81.6#360联通1
+140.207.198.6#360联通2
+1.2.4.8#CNNIC
+101.226.4.6#DNSPi电信1
+218.30.118.6#DNSPi电信2
+123.125.81.6#DNSPi联通1
+140.207.198.6#DNSPi联通2
+199.91.73.222#V2EX1
+178.79.131.110#V2EX2
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="www.baidu.com www.bilibili.com www.jd.com www.taobao.com www.github.com steampowered.com amazon.com"
 
 
 totaldomains=0
